@@ -1,0 +1,93 @@
+.main {
+  background: rgb(51, 153, 204);
+  border: 20px solid #2B81AC;
+  max-width: 100vw;
+  font-family: "Lucida Sans Unicode";
+  font-size: 21px;
+  line-height: 25px;
+  color: #FFFFFF;
+  padding: 35px 110px 100px 95px;
+}
+
+.main-block {
+  margin: 0px auto;
+}
+
+.title {
+  display: inline-block;
+  line-height: 25px;
+  margin: 0px 0px 39.62px 0px;
+}
+
+.block {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 25%;
+  border: 2px solid #FFFFFF;
+  background-color: #C24747;
+  text-align: center;
+  padding: 27px 0;
+}
+
+.block:last-child {
+  width: 100%;
+  background: #666699;
+}
+
+.block:first-child {
+  width: 50%;
+  background: #3399CC;
+}
+
+.block:nth-child(2) {
+  background: #33CCCC;
+}
+
+.block:nth-child(3) {
+  background: #996699;
+}
+
+.block:nth-child(4) {
+  background: #C24747;
+}
+
+.block:nth-child(5) {
+  background: #E2674A;
+}
+
+.block:nth-child(6) {
+  background: #FFCC66;
+}
+
+.block:nth-child(7) {
+  background: #99CC99;
+}
+
+.block:nth-child(8) {
+  background: #669999;
+}
+
+.block:nth-child(9) {
+  width: 583px;
+  background: #CC6699;
+}
+
+.block:nth-child(10) {
+  background: #339966;
+}
+
+.block .title {
+  margin: 0px 0px 8px 0px;
+}
+
+.logo-text p {
+  display: inline-block;
+  line-height: 50px;
+  margin-right: 11px;
+}
+
+.footer {
+  margin: 37px 0px 0px 0px;
+  font-size: 16px;
+  line-height: 19px;
+}/*# sourceMappingURL=style.css.map */
